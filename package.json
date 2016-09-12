@@ -28,13 +28,6 @@
   },
   "main": "index.js",
   "jsnext:main": "src/main.js",
-  "browser": {
-    "./lib/locales": false,
-    "./lib/locales.js": false
-  },
-  "react-native": {
-    "./lib/locales": "./lib/locales.js"
-  },
   "dependencies": {
     "intl-messageformat-parser": "1.2.0"
   },
